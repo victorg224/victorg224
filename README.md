@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on improving my programming skills by creating projects.<br/>
+- 🌱 I’m currently pursuing a Bachelors degree in Computer Science.<br/>
 
 <!--
 **victorg224/victorg224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
